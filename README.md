@@ -1,0 +1,2 @@
+# Inheritance
+FINDING INHERTANCE IN PYTHON
